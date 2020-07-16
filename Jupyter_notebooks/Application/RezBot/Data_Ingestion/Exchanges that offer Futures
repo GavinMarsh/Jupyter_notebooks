@@ -1,0 +1,10 @@
+Exchange        Open Interest    Producer    API documentation
+
+
+BitMEX          $1,067,578,333   yes
+OKEx            $  934,055,659   yes          https://www.okex.com/docs/en/
+Huobi           $  845,567,923   yes          no ticker stream & trade/book data is raw (no titles)
+Binance Futures $  617,372,666   yes/no       spot price pulled but unable to get futures data
+Bybit           $  343,279,164   no
+FTX             $  325,704,936   no
+Deribit         $  207,953,415   no
